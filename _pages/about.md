@@ -1,6 +1,6 @@
 Eudcation
 ======
-M.S. in School of Computer Science and Technology, Shandong University of Technology, 2023-2026
+- M.S. in School of Computer Science and Technology, Shandong University of Technology, 2023-2026
 
 A data-driven personal website
 ======
