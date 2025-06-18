@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "Profile"
+title: "Short Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Education
+Jiaxin Yan received the BS degree from the Shandong University of Technology, Zibo, China, in 2023. He is currently working toward the MS degree with the Shandong University of Technology. Her research interests include the areas of business process mining.
+
+Research Interests
 ======
-- M.S. in School of Computer Science and Technology, Shandong University of Technology, 2026
+- Process Mining
+
+Contact
+======
+- Email: yanjiaxinchina@163.com
