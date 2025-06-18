@@ -1,9 +1,7 @@
 ---
 title: "基于局部流程结构优化的归纳式模型挖掘方法"
 collection: publications
-category: manuscripts
 permalink: /publication/2025-06-18-local-process-optimization
-excerpt: '基于局部流程结构优化的归纳式模型挖掘方法，发表于《计算机集成制造系统》。'
 date: 2025-06-18
 venue: '计算机集成制造系统'
 paperurl: 'https://doi.org/10.13196/j.cims.2025.BPM05'
