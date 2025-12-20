@@ -3,7 +3,7 @@ title: "基于局部流程结构优化的归纳式模型挖掘方法"
 collection: publications
 category: journals
 permalink: /publication/2025-12-20-local-structure-optimized-inductive-mining
-excerpt: ""
+excerpt: "/publication/2024-02-17-基于局部流程结构优化的归纳式模型挖掘方法"
 date: 2025-12-20
 venue: "计算机集成制造系统"
 paperurl: "https://doi.org/10.13196/j.cims.2025.BPM05"
