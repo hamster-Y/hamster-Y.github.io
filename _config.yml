@@ -35,8 +35,8 @@ author:
   github           : "https://github.com/hamster-Y"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
-  google scholar   :"https://scholar.google.com/citations?hl=zh-CN&user=2JLKMOAAAAAJ
-  orcid            :"https://orcid.org/my-orcid?orcid=0009-0009-8361-2574"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=2JLKMOAAAAAJ
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-8361-2574"
 
 
 
