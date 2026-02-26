@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 =
-* M.S. in School of Computer Science and Technology, Shandong University of Technology, 2026
-* B.S. in School of Computer Science and Technology, Shandong University of Technology, 2023
+* M.S. in School of Computer Science and Technology, Shandong University of Technology, 2023-2026
+* B.S. in School of Computer Science and Technology, Shandong University of Technology, 2019-2023
   
 Academic Service
 =
