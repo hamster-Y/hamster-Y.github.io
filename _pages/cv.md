@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
+* Ph.D. Student in School of Control and Computer Engineering, North China Electric Power University, 2026–Present.
 * M.S. in School of Computer Science and Technology, Shandong University of Technology, 2023-2026.
 * B.S. in School of Computer Science and Technology, Shandong University of Technology, 2019-2023.
   
