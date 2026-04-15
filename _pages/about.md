@@ -6,11 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Jiaxin Yan received the BS degree from the Shandong University of Technology, Zibo, China, in 2023. He is currently working toward the MS degree with the Shandong University of Technology. Her research interests include the areas of business process mining.
+Jiaxin Yan received the B.S. and M.S. degrees from Shandong University of Technology, Zibo, China, in 2019 and 2023, respectively. He is currently pursuing the Ph.D. degree with the School of Control and Computer Engineering, North China Electric Power University, Beijing, China. His research interests include process mining and deep reinforcement learning.
 
 Research Interests
 ======
 - Process Mining
+- Deep Reinforcement Learning
 
 Contact
 ======
